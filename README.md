@@ -1,3 +1,3 @@
 # toy_ds_project
 dsci worksheet_version_control
-Oct 2 - project creation date
+project creation date: Oct 2
